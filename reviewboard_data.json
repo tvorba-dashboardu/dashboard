@@ -1,0 +1,730 @@
+{
+  "open_bugs_trend": [
+    {
+      "open_bugs": 85,
+      "build_id": 1,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 80,
+      "build_id": 2,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 76,
+      "build_id": 3,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 84,
+      "build_id": 4,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 78,
+      "build_id": 5,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 75,
+      "build_id": 6,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 80,
+      "build_id": 7,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 78,
+      "build_id": 8,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 87,
+      "build_id": 9,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 72,
+      "build_id": 10,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 82,
+      "build_id": 11,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 73,
+      "build_id": 12,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 83,
+      "build_id": 13,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 84,
+      "build_id": 14,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 77,
+      "build_id": 15,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 64,
+      "build_id": 16,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 65,
+      "build_id": 17,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 62,
+      "build_id": 18,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 70,
+      "build_id": 19,
+      "release": "Trunk"
+    },
+    {
+      "open_bugs": 71,
+      "build_id": 20,
+      "release": "Trunk"
+    }
+  ],
+  "parfait": [
+    {
+      "build_id": 1,
+      "new_bugs": 10,
+      "open_bugs": 52,
+      "unverified": 2150,
+      "release": "Trunk",
+      "verified": 847,
+      "fixed_bugs": 6
+    },
+    {
+      "build_id": 2,
+      "new_bugs": 6,
+      "open_bugs": 88,
+      "unverified": 2027,
+      "release": "Trunk",
+      "verified": 821,
+      "fixed_bugs": 17
+    },
+    {
+      "build_id": 3,
+      "new_bugs": 1,
+      "open_bugs": 82,
+      "unverified": 2149,
+      "release": "Trunk",
+      "verified": 816,
+      "fixed_bugs": 6
+    },
+    {
+      "build_id": 4,
+      "new_bugs": 13,
+      "open_bugs": 92,
+      "unverified": 2111,
+      "release": "Trunk",
+      "verified": 831,
+      "fixed_bugs": 10
+    },
+    {
+      "build_id": 5,
+      "new_bugs": 5,
+      "open_bugs": 92,
+      "unverified": 2137,
+      "release": "Trunk",
+      "verified": 832,
+      "fixed_bugs": 2
+    },
+    {
+      "build_id": 6,
+      "new_bugs": 20,
+      "open_bugs": 75,
+      "unverified": 2039,
+      "release": "Trunk",
+      "verified": 836,
+      "fixed_bugs": 19
+    },
+    {
+      "build_id": 7,
+      "new_bugs": 7,
+      "open_bugs": 88,
+      "unverified": 2053,
+      "release": "Trunk",
+      "verified": 802,
+      "fixed_bugs": 19
+    },
+    {
+      "build_id": 8,
+      "new_bugs": 15,
+      "open_bugs": 98,
+      "unverified": 2124,
+      "release": "Trunk",
+      "verified": 842,
+      "fixed_bugs": 1
+    },
+    {
+      "build_id": 9,
+      "new_bugs": 16,
+      "open_bugs": 50,
+      "unverified": 2001,
+      "release": "Trunk",
+      "verified": 837,
+      "fixed_bugs": 8
+    },
+    {
+      "build_id": 10,
+      "new_bugs": 18,
+      "open_bugs": 62,
+      "unverified": 2011,
+      "release": "Trunk",
+      "verified": 845,
+      "fixed_bugs": 10
+    },
+    {
+      "build_id": 11,
+      "new_bugs": 3,
+      "open_bugs": 63,
+      "unverified": 2123,
+      "release": "Trunk",
+      "verified": 844,
+      "fixed_bugs": 16
+    },
+    {
+      "build_id": 12,
+      "new_bugs": 8,
+      "open_bugs": 52,
+      "unverified": 2011,
+      "release": "Trunk",
+      "verified": 830,
+      "fixed_bugs": 7
+    },
+    {
+      "build_id": 13,
+      "new_bugs": 5,
+      "open_bugs": 54,
+      "unverified": 2175,
+      "release": "Trunk",
+      "verified": 834,
+      "fixed_bugs": 14
+    },
+    {
+      "build_id": 14,
+      "new_bugs": 11,
+      "open_bugs": 81,
+      "unverified": 2087,
+      "release": "Trunk",
+      "verified": 843,
+      "fixed_bugs": 15
+    },
+    {
+      "build_id": 15,
+      "new_bugs": 2,
+      "open_bugs": 78,
+      "unverified": 2152,
+      "release": "Trunk",
+      "verified": 804,
+      "fixed_bugs": 4
+    },
+    {
+      "build_id": 16,
+      "new_bugs": 12,
+      "open_bugs": 63,
+      "unverified": 2145,
+      "release": "Trunk",
+      "verified": 836,
+      "fixed_bugs": 13
+    },
+    {
+      "build_id": 17,
+      "new_bugs": 10,
+      "open_bugs": 87,
+      "unverified": 2124,
+      "release": "Trunk",
+      "verified": 839,
+      "fixed_bugs": 8
+    },
+    {
+      "build_id": 18,
+      "new_bugs": 11,
+      "open_bugs": 68,
+      "unverified": 2024,
+      "release": "Trunk",
+      "verified": 840,
+      "fixed_bugs": 0
+    },
+    {
+      "build_id": 19,
+      "new_bugs": 8,
+      "open_bugs": 79,
+      "unverified": 2192,
+      "release": "Trunk",
+      "verified": 803,
+      "fixed_bugs": 9
+    },
+    {
+      "build_id": 20,
+      "new_bugs": 12,
+      "open_bugs": 97,
+      "unverified": 2032,
+      "release": "Trunk",
+      "verified": 831,
+      "fixed_bugs": 12
+    }
+  ],
+  "bugs": [
+    {
+      "tags": "eyzJsBBv XOdEVuCl yDJTEHRPtZX ",
+      "build_id": 1000001,
+      "severity": 2,
+      "status": 74,
+      "asignee": "Petr",
+      "subject": "jHPgIpMfA UhEea f RFJyJubf lWPkik rLvtuWdKd Vvm hXfshNLWxwi fHsucCxVHBQ Q "
+    },
+    {
+      "tags": "jL ",
+      "build_id": 1000002,
+      "severity": 2,
+      "status": 59,
+      "asignee": "Jakub",
+      "subject": "PwN RMKY ySjAvdDFia Ba lfku CbFmNBAKByP J gpbRVvQU "
+    },
+    {
+      "tags": "F gi RSweJT ",
+      "build_id": 1000003,
+      "severity": 2,
+      "status": 40,
+      "asignee": "Jakub",
+      "subject": "ayJTXY "
+    },
+    {
+      "tags": "zi VVqjvXXJ ",
+      "build_id": 1000004,
+      "severity": 1,
+      "status": 88,
+      "asignee": "Petr",
+      "subject": "ZQNGfX rKTBXtZqVM RLTt IC CoDGD SSDr iU PcfgpNfedg Tu "
+    },
+    {
+      "tags": "OWoF LJZ ",
+      "build_id": 1000005,
+      "severity": 2,
+      "status": 82,
+      "asignee": "Jakub",
+      "subject": "VtgggOy hprrCTF Z xPzNjZS "
+    },
+    {
+      "tags": "QDqq jwES mnYyRNi ",
+      "build_id": 1000006,
+      "severity": 5,
+      "status": 73,
+      "asignee": "Ales",
+      "subject": "CMGy jq lGMX xHmSouQ uESoQYOceXj gLQNwefgh CNBUpnT KnUkMM EmwTKkgTl "
+    },
+    {
+      "tags": "",
+      "build_id": 1000007,
+      "severity": 2,
+      "status": 26,
+      "asignee": "Honza",
+      "subject": "q EUu tZw Ly FYOsnVqncs eBqynKc eMIkhGbF ijG Rx Ag "
+    },
+    {
+      "tags": "fRPRuyHIoz ",
+      "build_id": 1000008,
+      "severity": 5,
+      "status": 76,
+      "asignee": "Honza",
+      "subject": "Y GtPjSOFSPlu opGVUc MbyAJmiFW "
+    },
+    {
+      "tags": "bh ",
+      "build_id": 1000009,
+      "severity": 5,
+      "status": 77,
+      "asignee": "Petr",
+      "subject": "SvsdeX gQNVgUfgKgN BnrL mMADuzlzcX pyjayCX "
+    },
+    {
+      "tags": "dRfwM hdE JtODtuXcYm ",
+      "build_id": 1000010,
+      "severity": 4,
+      "status": 71,
+      "asignee": "Petr",
+      "subject": "aZRLkXZcoN drXHVTT IdKomHJW CnjjPcK YJQKPL "
+    },
+    {
+      "tags": "ECievFYwr Y sUG ",
+      "build_id": 1000011,
+      "severity": 5,
+      "status": 59,
+      "asignee": "Jakub",
+      "subject": "kQZO peoTLJ bmwNTpJlW "
+    },
+    {
+      "tags": "",
+      "build_id": 1000012,
+      "severity": 4,
+      "status": 40,
+      "asignee": "Ales",
+      "subject": "pNKLW aSZuDtx "
+    },
+    {
+      "tags": "nnaJSzau ",
+      "build_id": 1000013,
+      "severity": 5,
+      "status": 45,
+      "asignee": "Jakub",
+      "subject": "qPacu NPkmON "
+    },
+    {
+      "tags": "ZgxKG ",
+      "build_id": 1000014,
+      "severity": 3,
+      "status": 87,
+      "asignee": "Honza",
+      "subject": "o SJADcakvrf FCm "
+    },
+    {
+      "tags": "pQFyMpoCeu ",
+      "build_id": 1000015,
+      "severity": 3,
+      "status": 68,
+      "asignee": "Honza",
+      "subject": "Wo xQBGebItQZ vSAufdeEQN AWYJ UyjzdEuGn gfiopmUee cgRnxsCebX E ULsxlu FJvrGcRCkUn "
+    },
+    {
+      "tags": "",
+      "build_id": 1000016,
+      "severity": 2,
+      "status": 12,
+      "asignee": "Petr",
+      "subject": "kpSSB Iibqd B "
+    },
+    {
+      "tags": "KWTOCBALL ",
+      "build_id": 1000017,
+      "severity": 2,
+      "status": 36,
+      "asignee": "Petr",
+      "subject": "yChraTx "
+    },
+    {
+      "tags": "nRjesrjBqg JaIuboQZ qCJNRLvXTZc ",
+      "build_id": 1000018,
+      "severity": 4,
+      "status": 53,
+      "asignee": "Jakub",
+      "subject": "j jOPVIFiUbsw iqABXygWRy nlXl YOGe xMMtJtW "
+    },
+    {
+      "tags": "Ep pukXbXvoO ",
+      "build_id": 1000019,
+      "severity": 3,
+      "status": 49,
+      "asignee": "Petr",
+      "subject": "eXMxvciHNyd dJK HGiapabcmC jVvmvAfNjD gxmdCECMx "
+    },
+    {
+      "tags": "GSkGxof kiihQj ",
+      "build_id": 1000020,
+      "severity": 5,
+      "status": 30,
+      "asignee": "Honza",
+      "subject": "BmcxlY eJhPgmtNVq ND aTSr YbQGwSp YOOs dhvP "
+    },
+    {
+      "tags": "F uyWZnP eRm ",
+      "build_id": 1000021,
+      "severity": 1,
+      "status": 29,
+      "asignee": "Honza",
+      "subject": "qPc Vc cYn "
+    },
+    {
+      "tags": "ZvcAoSfZuiY ",
+      "build_id": 1000022,
+      "severity": 2,
+      "status": 25,
+      "asignee": "Petr",
+      "subject": "KotruPR cCqq UrtcOf ggDADRI FhRIuxOan kNAoC LYEI C Iv KqrCg "
+    },
+    {
+      "tags": "",
+      "build_id": 1000023,
+      "severity": 3,
+      "status": 49,
+      "asignee": "Petr",
+      "subject": "CnWM u HDaPDd BCNVM mprFKylUYr "
+    },
+    {
+      "tags": "ntheF ",
+      "build_id": 1000024,
+      "severity": 2,
+      "status": 83,
+      "asignee": "Jakub",
+      "subject": "Yf M pT n V M "
+    },
+    {
+      "tags": "viFvYR G ",
+      "build_id": 1000025,
+      "severity": 3,
+      "status": 68,
+      "asignee": "Jakub",
+      "subject": "FjWx qV ulkWyKNy wZAT RjHvfwss oulkBIEgfS peBCXl fUEQxpD "
+    },
+    {
+      "tags": "qCeyeewTo ",
+      "build_id": 1000026,
+      "severity": 4,
+      "status": 14,
+      "asignee": "Petr",
+      "subject": "PlZszyeh svc "
+    },
+    {
+      "tags": "",
+      "build_id": 1000027,
+      "severity": 5,
+      "status": 11,
+      "asignee": "Petr",
+      "subject": "bjQWjlCR "
+    },
+    {
+      "tags": "",
+      "build_id": 1000028,
+      "severity": 1,
+      "status": 29,
+      "asignee": "Honza",
+      "subject": "DE onrjQfrhf TRI NCBonyoUyV "
+    },
+    {
+      "tags": "",
+      "build_id": 1000029,
+      "severity": 5,
+      "status": 75,
+      "asignee": "Petr",
+      "subject": "rbCBfKh "
+    },
+    {
+      "tags": "PZUUmgKT ",
+      "build_id": 1000030,
+      "severity": 2,
+      "status": 40,
+      "asignee": "Petr",
+      "subject": "rtwsANhpAN FOHoYki "
+    },
+    {
+      "tags": "CccBAGfnpWS PNqpvZJOx ",
+      "build_id": 1000031,
+      "severity": 5,
+      "status": 28,
+      "asignee": "Ales",
+      "subject": "kiqUby "
+    },
+    {
+      "tags": "s ceVVaEGsG uk ",
+      "build_id": 1000032,
+      "severity": 4,
+      "status": 87,
+      "asignee": "Petr",
+      "subject": "IRjrIWahKTu klqOzLBkLIj OkjgMSHVwx wPhO gfqFotqx sIaNLD mfVH prgeJx LvvH nIyjbUehkO "
+    },
+    {
+      "tags": "",
+      "build_id": 1000033,
+      "severity": 5,
+      "status": 74,
+      "asignee": "Ales",
+      "subject": "idnqqF XK "
+    },
+    {
+      "tags": "",
+      "build_id": 1000034,
+      "severity": 2,
+      "status": 30,
+      "asignee": "Jakub",
+      "subject": "aWD QmNhPiqh "
+    },
+    {
+      "tags": "XunYJLJj ",
+      "build_id": 1000035,
+      "severity": 3,
+      "status": 49,
+      "asignee": "Honza",
+      "subject": "EjitWS uSdtPmlPaG Hktvgp SLOMNdYOWu ptYOvZ SbCTQZBJt tXwpFQ NhMCQHoNgC hDgYrClcqm "
+    },
+    {
+      "tags": "QoKChbFK wySAY VLbGRV ",
+      "build_id": 1000036,
+      "severity": 2,
+      "status": 73,
+      "asignee": "Jakub",
+      "subject": "MdmtD aBQcZRT xZIxv kLrOVxZ qDlEApeJrk L Auh "
+    },
+    {
+      "tags": "",
+      "build_id": 1000037,
+      "severity": 2,
+      "status": 64,
+      "asignee": "Honza",
+      "subject": "Iz iGqquKWfPEl gNiXQAvHsp r WmTPG jhKL kOFQVZV "
+    },
+    {
+      "tags": "",
+      "build_id": 1000038,
+      "severity": 5,
+      "status": 33,
+      "asignee": "Ales",
+      "subject": "ycVunpujp TDxrHou myer vNZdj DbstK BBPYmoTxNnm "
+    },
+    {
+      "tags": "OW ",
+      "build_id": 1000039,
+      "severity": 2,
+      "status": 41,
+      "asignee": "Ales",
+      "subject": "q BPtqihYp edRh rIxuGEuz pHnMa L "
+    },
+    {
+      "tags": "DXOkKaBm zv ",
+      "build_id": 1000040,
+      "severity": 3,
+      "status": 38,
+      "asignee": "Jakub",
+      "subject": "oiKGJ GKQbys "
+    }
+  ],
+  "qualys": [
+    {
+      "comments": "YOTmnXgsiN rfnmUSwO uBotpKCSJ ",
+      "new_bugs": 2,
+      "build_id": 1,
+      "release": "Trunk"
+    },
+    {
+      "comments": "KCj rhTtIhHoXU phBeofuAph DFlhCH ",
+      "new_bugs": 2,
+      "build_id": 2,
+      "release": "Trunk"
+    },
+    {
+      "comments": "YyXGqXnyg KEG y DoHsuP xx JTrtlj ",
+      "new_bugs": 1,
+      "build_id": 3,
+      "release": "Trunk"
+    },
+    {
+      "comments": "gqMxAEKaI jEZqe dOZfGjRBIP RIchgbKp ",
+      "new_bugs": 7,
+      "build_id": 4,
+      "release": "Trunk"
+    },
+    {
+      "comments": "mulScohnaf A VjIvCGSytFL o NMdjfjU PtPByQUbCJI aewIMVyZezp ",
+      "new_bugs": 9,
+      "build_id": 5,
+      "release": "Trunk"
+    },
+    {
+      "comments": "UQIyJpIVOdf cm XpQo zanEhpNbE ",
+      "new_bugs": 8,
+      "build_id": 6,
+      "release": "Trunk"
+    },
+    {
+      "comments": "LEEkNfKix TrLMQ wVBRBhYJGz FmITHIgN frX TnFREmEnTNX PeuWbKqYnLV xmaNwHN ",
+      "new_bugs": 1,
+      "build_id": 7,
+      "release": "Trunk"
+    },
+    {
+      "comments": "ppO zYDKfp MIg ",
+      "new_bugs": 3,
+      "build_id": 8,
+      "release": "Trunk"
+    },
+    {
+      "comments": "WCsYumOB qgioX GTJxy uvJccAr ZPVpbBud kTij ",
+      "new_bugs": 5,
+      "build_id": 9,
+      "release": "Trunk"
+    },
+    {
+      "comments": "ZXLYu ltCmYuweYYk MJkj ",
+      "new_bugs": 0,
+      "build_id": 10,
+      "release": "Trunk"
+    },
+    {
+      "comments": "BLFPfQIpFGN rFUYu MikYWGFbNll ",
+      "new_bugs": 2,
+      "build_id": 11,
+      "release": "Trunk"
+    },
+    {
+      "comments": "UdvcF iqFMQkwFaI ",
+      "new_bugs": 10,
+      "build_id": 12,
+      "release": "Trunk"
+    },
+    {
+      "comments": "nCgdST kwdMj twiYIhD PDqNnvN tVkL ",
+      "new_bugs": 6,
+      "build_id": 13,
+      "release": "Trunk"
+    },
+    {
+      "comments": "OWcCXz EzMoM wyQBovAFjNY ",
+      "new_bugs": 3,
+      "build_id": 14,
+      "release": "Trunk"
+    },
+    {
+      "comments": "G rCdLkube ",
+      "new_bugs": 3,
+      "build_id": 15,
+      "release": "Trunk"
+    },
+    {
+      "comments": "d dwPVZckiO mfPJWyN KZUoU pgyhse fSPHyDc nfGomuOmP XURQGhI ",
+      "new_bugs": 8,
+      "build_id": 16,
+      "release": "Trunk"
+    },
+    {
+      "comments": "sDsUxmc tWwRIgSkY xbPPTBpDg sdNHZrxnl HePvvsN T t ",
+      "new_bugs": 5,
+      "build_id": 17,
+      "release": "Trunk"
+    },
+    {
+      "comments": "udYqtiWl ZNzMgvwCnyz kBNVpLxTU QXkhDVw m DMbMCay lz ClgZRfZWfq obD ",
+      "new_bugs": 4,
+      "build_id": 18,
+      "release": "Trunk"
+    },
+    {
+      "comments": "mHkoUhgVqZ fKePHlKYEN ",
+      "new_bugs": 3,
+      "build_id": 19,
+      "release": "Trunk"
+    },
+    {
+      "comments": "fD eueTiylLe NTI fYsOwYZx srCDiM sxOkeOjh vfuWjtSnvxw FWcJIdItqw REpZOc fYQUIRdVbN ",
+      "new_bugs": 3,
+      "build_id": 20,
+      "release": "Trunk"
+    }
+  ]
+}
