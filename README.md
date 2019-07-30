@@ -6,11 +6,11 @@
 
 * Hosting OS: Oracle Solaris 11.4 (e.g. in VirtualBox) 
 
-* Django 1.11.2* (installed in virutal environment ~ venv) 
+* Django 2.2.3* (installed in virutal environment ~ venv) 
 
 * Database – MySQL 5.7.* 
  
-* Python 3.4 
+* Python 3.7
 
  
 
